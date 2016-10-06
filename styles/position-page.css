@@ -1,1 +1,32 @@
+nav {
+  padding-right: 60px;
+  padding-bottom: 30px;
+  height: 50px; 
+  Background-color: gray;
+  Position: relative;
+}
+.icon { 
+  Position: absolute;
+}
+   li {
+   display: inline;
+   Padding: 10px;
+}
 
+main {
+  background-image: imgsrc="outerspace_landscape.jpeg"); 
+}
+.box {
+  width: 600px;
+  Height: 300px;
+  border: 10px green dotted;
+  display: center;
+}
+.kitten {
+  position: absolute;
+  offset: left;
+}
+.dog{
+	position: relative;
+	offset: right;
+}
