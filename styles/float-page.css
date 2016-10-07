@@ -10,3 +10,17 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.neb1 {
+  float: left;
+  display: relative;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+}
+.neb2 {
+  float: right;
+  display: relative;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+}
